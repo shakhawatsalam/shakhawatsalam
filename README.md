@@ -1,6 +1,9 @@
 ![MasterHead](https://qph.cf2.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <h1 align="center">Hi 👋, I'm Shakhawat</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
+<p align="right">
+Hello, and welcome to my profile! I'm Shakhawat Salam, a passionate and skilled full-stack developer hands-on experience creating robust and efficient web applications. My expertise lies in a wide range of technologies, including HTML, CSS, CSS GRID, CSS FLEX, JavaScript, TypeScript, React js, Next js, Redux, Node js, Express js and MongoDB.
+</p>
 <img align="right" alt="Coading" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakhawatsalam&label=Profile%20views&color=0e75b6&style=flat" alt="shakhawatsalam" /> </p>
 
@@ -9,9 +12,7 @@
 
 
 - 👨‍💻 All of my projects are available at [MY PORTFOLIO](https://my-portfolioo-psi.vercel.app/)
-- 
 - 📫 How to reach me **shakhawatsalam726@gmail.com**
-
 - 📄 My Resume [Click here](https://drive.google.com/file/d/1-twY7dX9Y5e0_2Ay0gU4zK1mt38ZqrFs/view)
 
 <h3 align="left">Connect with me:</h3>
