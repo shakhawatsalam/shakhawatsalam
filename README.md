@@ -6,14 +6,10 @@
 
 <p align="left"> <a href="https://twitter.com/sk shawon" target="blank"><img src="https://img.shields.io/twitter/follow/sk shawon?logo=twitter&style=for-the-badge" alt="sk shawon" /></a> </p>
 
-- 🔭 I’m currently working on [socialmedia-fb](https://github.com/shakhawatsalam/socialmedia-fb)
 
-- 🌱 I’m currently learning **Redux, Next.js and React Native**
 
 - 👨‍💻 All of my projects are available at [MY PORTFOLIO](https://my-portfolioo-psi.vercel.app/)
-
-- 💬 Ask me about **React, MERN stack development**
-
+- 
 - 📫 How to reach me **shakhawatsalam726@gmail.com**
 
 - 📄 My Resume [Click here](https://drive.google.com/file/d/1-twY7dX9Y5e0_2Ay0gU4zK1mt38ZqrFs/view)
